@@ -1,9 +1,4 @@
 
-<!-- LinkedIn -->
-<a href="[https://www.linkedin.com/in/gabriel-monteiro-6b6229295/)" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/>
-</a>
-
 <!-- Gmail / e-mail de contato -->
 <a href="mailto:gabrielmauricio.pessoal@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209"/>
@@ -31,17 +26,4 @@
 | **OS** | ![Windows 11](https://img.shields.io/badge/Windows_11-%230079d5?style=for-the-badge&logo=windows11&logoColor=white) |
 | **Aprendendo** | ![ADS](https://img.shields.io/badge/ADS-1º_Semestre-orange?style=for-the-badge) |
 
-</div>
-
-<!-- =========================================
-  🐍 SEÇÃO 6 — SNAKE DE CONTRIBUIÇÕES
-  ATENÇÃO: precisa configurar o GitHub Action correspondente
-  no seu repositório "bielmonn/bielmonn" para essa imagem funcionar.
-========================================= -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bielmonn/bielmonn/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bielmonn/bielmonn/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bielmonn/bielmonn/output/github-contribution-grid-snake.svg"/>
-  </picture>
 </div>
