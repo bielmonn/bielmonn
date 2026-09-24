@@ -1,6 +1,6 @@
 
 <!-- LinkedIn -->
-<a href="[https://www.linkedin.com/in/[PREENCHER]](https://www.linkedin.com/in/gabriel-monteiro-6b6229295/)" target="_blank">
+<a href="[https://www.linkedin.com/in/gabriel-monteiro-6b6229295/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/>
 </a>
 
