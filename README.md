@@ -13,7 +13,7 @@
 ========================================= -->
 <div align="center">
 
-  🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** — 1º semestre <br/>
+  🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** 1º semestre <br/>
   💼 Atuo como **Analista de Suporte N2**, migrando para o desenvolvimento <br/>
   🎯 Objetivo: conquistar uma vaga de TI em uma Big Tech
 
